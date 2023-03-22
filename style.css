@@ -1,0 +1,22 @@
+main {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+input {
+    cursor: pointer;
+}
